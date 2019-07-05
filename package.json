@@ -1,0 +1,11 @@
+{
+  "name": "icons95",
+  "version": "1.0.0",
+  "description": "Some icons from days gone by",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
